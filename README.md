@@ -32,10 +32,14 @@
 ![](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 
+
 ## 📜 Certifications
 
 - Microsft Certified Azure
 - Boomi Professional Certified Integration Developer
+
+![](https://wescrockett.com/wp-content/uploads/2019/06/dell-boomi-certified.png)
+![](https://cdn-ckjba.nitrocdn.com/XvHIXtRQMUYzLjoXbfBpiwAcydcSSOVj/assets/static/optimized/rev-a8239a0/wp-content/uploads/2020/12/ms-az-900-certification.png)
 
 ## ❣️ Interests
 - Networking
