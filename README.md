@@ -1,3 +1,2 @@
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=rubenleerentveld&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rubenleerentveld&langs_count=5&theme=tokyonight)]()
+<script src="https://gist.github.com/RubenLeerentveld/267907ef01521de4a0a5ac72c6b3817b.js"></script>
