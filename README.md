@@ -45,7 +45,7 @@
 - Integration
 
 
-## Stats
+## 📊 Stats
 
 <!--START_SECTION:waka-->
 
