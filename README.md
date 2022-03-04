@@ -46,10 +46,9 @@
 
 
 ## Stats
-START_SECTION:waka
-END_SECTION:waka
 
 <!--START_SECTION:waka-->
+Test
 <!--END_SECTION:waka-->
 
 ## 👨‍🎓 Learning
