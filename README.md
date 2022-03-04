@@ -48,7 +48,11 @@
 ## Stats
 
 <!--START_SECTION:waka-->
-<img src="https://github.com/RubenLeerentveld/RubenLeerentveld/blob/master/charts/bar_graph.png" alt="Alternative Text"/>
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ## 👨‍🎓 Learning
