@@ -45,6 +45,10 @@
 - Integration
 
 
+## Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 👨‍🎓 Learning
 - Networking (Cisco CCNA Course)
 - How to center a div (Will take forever)
