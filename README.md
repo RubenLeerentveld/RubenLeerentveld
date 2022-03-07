@@ -64,8 +64,9 @@ CSS          0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rubenleerentveld)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rubenleerentveld&show_icons=true&theme=dracula)
+-->
 ## 👨‍🎓 Learning
 - Networking (Cisco CCNA Course)
 - How to center a div (Will take forever)
