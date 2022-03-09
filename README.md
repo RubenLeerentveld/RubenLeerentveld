@@ -56,11 +56,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 February 2022 - To: 06 March 2022
+From: 01 March 2022 - To: 08 March 2022
 
-JavaScript   1 hr 4 mins     ████████████████████████▓   98.37 %
-Vue.js       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+JavaScript   2 hrs           ███████████████████▒░░░░░   76.67 %
+C#           25 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.99 %
+Other        8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
 ```
 
 <!--END_SECTION:waka-->
