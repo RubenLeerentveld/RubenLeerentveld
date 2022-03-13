@@ -56,7 +56,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 March 2022 - To: 11 March 2022
+From: 05 March 2022 - To: 12 March 2022
 
 JavaScript   2 hrs           ███████████████████▒░░░░░   77.18 %
 C#           25 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.09 %
