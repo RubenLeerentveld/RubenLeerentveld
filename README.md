@@ -56,11 +56,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 March 2022 - To: 13 March 2022
-
-JavaScript   55 mins         ███████████████▒░░░░░░░░░   60.94 %
-C#           25 mins         ███████░░░░░░░░░░░░░░░░░░   27.58 %
-Other        8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
