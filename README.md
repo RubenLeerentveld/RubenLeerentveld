@@ -56,7 +56,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 09 March 2022 - To: 16 March 2022
+
+Vue.js       35 mins         ████████████████████████▓   98.46 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
