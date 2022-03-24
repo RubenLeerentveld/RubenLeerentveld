@@ -56,11 +56,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 March 2022 - To: 22 March 2022
+From: 16 March 2022 - To: 23 March 2022
 
-Vue.js       35 mins         ████████████████████████▓   98.46 %
-JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Other        6 mins          ████████████████████████░   96.04 %
 ```
 
 <!--END_SECTION:waka-->
