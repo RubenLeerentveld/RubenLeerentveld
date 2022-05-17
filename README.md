@@ -56,10 +56,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 May 2022 - To: 15 May 2022
+From: 09 May 2022 - To: 16 May 2022
 
-Java       3 hrs 14 mins   █████████████████████▓░░░   86.76 %
-Other      13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
+Java       3 hrs 14 mins   ███████████████████▒░░░░░   77.98 %
+Other      29 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 %
 ```
 
 <!--END_SECTION:waka-->
