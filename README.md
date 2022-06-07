@@ -56,14 +56,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 May 2022 - To: 05 June 2022
+From: 30 May 2022 - To: 06 June 2022
 
-Java                  4 hrs 57 mins   ██████████████████░░░░░░░   71.51 %
-Markdown              1 hr 14 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.90 %
-HTTP Request          28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
-YAML                  5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-Properties            5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-Vue.js                2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Java                  4 hrs 31 mins   █████████████████████▒░░░   85.12 %
+HTTP Request          28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
+Cookie storage file   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+Properties            7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+Markdown              2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+GitIgnore file        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
