@@ -56,7 +56,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 May 2022 - To: 07 June 2022
+From: 01 June 2022 - To: 08 June 2022
 
 Java                  5 hrs 3 mins    █████████████████████▓░░░   86.03 %
 HTTP Request          28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
