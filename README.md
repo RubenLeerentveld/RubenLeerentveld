@@ -56,14 +56,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 June 2022 - To: 08 June 2022
+From: 02 June 2022 - To: 09 June 2022
 
-Java                  5 hrs 3 mins    █████████████████████▓░░░   86.03 %
-HTTP Request          28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
-Properties            11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
-Cookie storage file   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-GitIgnore file        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-Markdown              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Java                  5 hrs 39 mins   ███████████████████████▒░   93.58 %
+HTTP Request          7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+Cookie storage file   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+Properties            7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+XML                   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+JSON                  0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
