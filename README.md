@@ -56,7 +56,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 June 2022 - To: 17 June 2022
+From: 11 June 2022 - To: 18 June 2022
 
 Java                  5 hrs 15 mins   ███████████░░░░░░░░░░░░░░   44.16 %
 Properties            2 hrs 23 mins   █████░░░░░░░░░░░░░░░░░░░░   20.17 %
