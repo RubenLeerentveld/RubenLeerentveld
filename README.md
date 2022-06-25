@@ -56,12 +56,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 June 2022 - To: 23 June 2022
+From: 17 June 2022 - To: 24 June 2022
 
-Markdown     2 hrs 20 mins   ████████████████████████▓   98.86 %
-Java         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
-Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Markdown   1 hr 45 mins    ████████████████████████▓   99.10 %
+Java       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
 ```
 
 <!--END_SECTION:waka-->
