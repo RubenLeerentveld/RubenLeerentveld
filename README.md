@@ -2,7 +2,7 @@
 
 📚 Student BSc Software Engineering
 
-💼 Lead Software Engineer @Netwerk-C
+💼 Software Design Engineer @ ASML
 
 
 
